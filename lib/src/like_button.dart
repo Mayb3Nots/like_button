@@ -137,7 +137,7 @@ class LikeButtonState extends State<LikeButton> with TickerProviderStateMixin {
 
   @override
   void didUpdateWidget(LikeButton oldWidget) {
-    _isLiked = widget.isLiked;
+    // _isLiked = widget.isLiked;
     _likeCount = widget.likeCount;
     _preLikeCount = _likeCount;
 
