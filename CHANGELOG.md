@@ -1,3 +1,15 @@
+## 2.0.5
+
+* Add postFrameCallback to support start animation at first time(#65)
+
+## 2.0.4
+
+* Fix issue that Number reversed when using RTL localization
+
+## 2.0.3
+
+* Fix issue that LikeButtonTapCallback result can't be null
+
 ## 2.0.2
 
 * Fix issue that Bubble animation is cropped #50
